@@ -2,6 +2,10 @@
 
 A plant care tracking app built with Kotlin, Jetpack Compose, Firebase and Groq AI.
 
+## Student Info
+- Module: SP5000COM Android Application Development with Kotlin
+- Due: July 26, 2026
+
 ## Features
 - Firebase Authentication (Email/Password + Google Sign-In)
 - Plant CRUD with image upload (stored free in Firestore)
@@ -13,6 +17,7 @@ A plant care tracking app built with Kotlin, Jetpack Compose, Firebase and Groq 
 - Dark/Light Theme Toggle
 - CSV Export
 - Saved Tips from AI
+- Delete Account
 
 ## Tech Stack
 - Kotlin + Jetpack Compose
@@ -26,7 +31,8 @@ A plant care tracking app built with Kotlin, Jetpack Compose, Firebase and Groq 
 1. Add your google-services.json to app/ folder
 2. Add your Groq API key in Constants.kt
 3. Enable Firebase Auth, Realtime Database and Firestore
-4. Run the app!
+4. Set Firestore rules to allow authenticated users
+5. Run the app!
 
 ## Testing
 - Unit tests: src/test/
