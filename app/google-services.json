@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990732134695",
+    "firebase_url": "https://leafly-aac16-default-rtdb.firebaseio.com",
+    "project_id": "leafly-aac16",
+    "storage_bucket": "leafly-aac16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990732134695:android:4267d23aa9635ebc65a102",
+        "android_client_info": {
+          "package_name": "com.example.leafly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990732134695-0jugk9v575qfeqq041scgu7thtq57nss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leafly",
+            "certificate_hash": "c19cd26607a817ca48d74dfeacf202444f4b492e"
+          }
+        },
+        {
+          "client_id": "990732134695-n238kcigok1054ttkiomf922jq57s451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasqa1NmiX_Y6gr9mMHxC-Wq5hOZoKcz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990732134695-n238kcigok1054ttkiomf922jq57s451.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
